@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'neha1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_077CF3B2AF7E42A8B428CE8B892ED8DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_24DC9A300BCD4608B6637E6F6EE2ECE9 }}
           package: '*.jar'
